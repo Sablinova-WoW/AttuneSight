@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AttuneSight
+## Notes: Independent marker/outline color pickers and high-contrast marker for never-attuned BoE equipment on Synastria. Supports Blizzard, Bagnon, OmniInventory and opt-in button adapters.
+## Author: Community addon
+## Version: 1.0.0
+## OptionalDeps: Bagnon, OmniInventory
+## SavedVariables: AttuneSightDB
+AttuneSight.lua
